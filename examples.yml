@@ -1,10 +1,9 @@
-directions:
-  # redirecting per OS
-  example:
-    ios: "https://google.com"
-    android: "https://medium.com"
+# redirecting per OS
+example:
+  ios: "https://google.com"
+  android: "https://medium.com"
 
-  # just another example
-  typy:
-    ios: "https://apps.apple.com/us/app/typy/id1538771852"
-    android: "https://play.google.com/store/apps/details?id=de.typy"
+# just another example
+another:
+  ios: "https://apps.apple.com/us"
+  android: "https://play.google.com/store"
