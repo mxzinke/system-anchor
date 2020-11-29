@@ -1,0 +1,10 @@
+directions:
+  # redirecting per OS
+  example:
+    ios: "https://google.com"
+    android: "https://medium.com"
+
+  # just another example
+  typy1:
+    ios: "https://apps.apple.com/us/app/typy/id1538771852"
+    android: "https://play.google.com/store/apps/details?id=de.typy"
