@@ -5,6 +5,6 @@ directions:
     android: "https://medium.com"
 
   # just another example
-  typy1:
+  typy:
     ios: "https://apps.apple.com/us/app/typy/id1538771852"
     android: "https://play.google.com/store/apps/details?id=de.typy"
